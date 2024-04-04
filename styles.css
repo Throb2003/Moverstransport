@@ -44,8 +44,7 @@ nav ul li a:hover {
   padding-top: 80px;
 }
 ul.a {
-  list-style-type: square;
-  align: center;
+  list-style-type: square; center;
 }
 footer {
   background-color: #333;
