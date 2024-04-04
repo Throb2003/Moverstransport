@@ -33,9 +33,7 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #555;
 }
-ol.a {
-  list-style-type: square;
-}
+
 .banner {
   width: 100%;
   height: 200px;
@@ -45,7 +43,9 @@ ol.a {
   color: black;
   padding-top: 80px;
 }
-
+ol.a {
+  list-style-type: square;
+}
 footer {
   background-color: #333;
   color: #fff;
