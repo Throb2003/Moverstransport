@@ -37,10 +37,10 @@ nav ul li a:hover {
 .banner {
   width: 100%;
   height: 200px;
-  background-image: url('Logo.png');
+  background-image: url('transportation_banner.jpg');
   background-size: cover;
   text-align: center;
-  color: white;
+  color: black;
   padding-top: 80px;
 }
 ul.a {
