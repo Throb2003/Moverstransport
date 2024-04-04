@@ -12,8 +12,8 @@ nav {
   padding: 10px;
 }
 
-.a {
-  list-style-type: circle;
+ul.a {
+  list-style-type: square;
 }
 nav ul {
   list-style-type: none;
