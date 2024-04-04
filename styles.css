@@ -43,8 +43,9 @@ nav ul li a:hover {
   color: black;
   padding-top: 80px;
 }
-ol.a {
+ul.a {
   list-style-type: square;
+  align: center;
 }
 footer {
   background-color: #333;
