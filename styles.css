@@ -45,8 +45,7 @@ nav ul li a:hover {
   padding-top: 80px;
 }
 .Logo {
-  width: 10%;
-  height: 20px;
+    padding: 10px;
 }
 footer {
   background-color: #333;
