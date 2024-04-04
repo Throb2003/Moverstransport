@@ -12,6 +12,9 @@ nav {
   padding: 10px;
 }
 
+.a{
+  list-style-type: circle;
+}
 nav ul {
   list-style-type: none;
   margin: 0;
